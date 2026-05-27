@@ -69,11 +69,12 @@ opacity: 0;
     display: flex;
     justify-content: space-between;
     margin:1.2rem 0;
+    
 }
 label{
 border-radius: 50%;
-width: 5rem;
-height: 5rem;
+width: 4rem;
+height: 4rem;
 cursor: pointer;
 background-color: hsl(213, 19%, 23%);
 padding: 10px;
