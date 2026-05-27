@@ -117,6 +117,7 @@ label:hover{
 max-width: calc(100vw - 60px);
 width: 40rem;
 min-width: 24rem;
+
 padding: 2rem;
 background-color: var(--dark-gray);
 border-radius: 19px;
