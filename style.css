@@ -54,7 +54,7 @@ opacity: 0;
     border: none;
     border-radius: 14px;
     color: var(--dark-gray);
-    font-weight: 900;
+    font-weight: 600;
     font-size: 1.6rem;
     cursor: pointer;
     transition: 0.2s ease;
@@ -148,7 +148,7 @@ margin:0 5px;
 @media screen and (max-width:375px){
 
 .form,.tnks-container{
-width: 90%;
+width: 85%;
 padding: 2rem;
 
 }
