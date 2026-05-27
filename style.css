@@ -113,7 +113,7 @@ label:hover{
 
 }
 .form,.tnks-container{
-
+max-width: calc(100vw - 60px);
 width: 40rem;
 min-width: 24rem;
 padding: 2rem;
